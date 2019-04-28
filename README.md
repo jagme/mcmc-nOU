@@ -4,7 +4,8 @@ MCMCnOU
 
 This is the Matlab/C++-Mex implementation of the MCMC algorithms presented in
 
-“Bayesian calibration and number of jump components in electricity spot price models” byJhonny Gonzalez, John Moriarty & Jan Palczewski (http://ssrn.com/abstract=2714382)
+“Bayesian calibration and number of jump components in electricity spot price models” by
+Jhonny Gonzalez, John Moriarty & Jan Palczewski (https://www.sciencedirect.com/science/article/pii/S0140988317301299)
 
 The software performs Bayesian inference for sum of Gaussian and non-Gaussian Ornstein-Uhlenbeck processes, and demonstrates their use for modelling the UK and EEX electricity markets.
 
